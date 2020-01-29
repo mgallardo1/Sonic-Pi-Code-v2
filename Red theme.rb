@@ -12,7 +12,7 @@ move9 = "C:/Users/miguel_gallardo/Downloads/move 9.wav"
 use_bpm 194
 with_fx :reverb do
   use_synth :chiplead
-  sample charizard
+  sample charizard, amp: 3
   sleep 17.54
   play :D4
   play :A3
