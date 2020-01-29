@@ -286,6 +286,7 @@ with_fx :reverb do
       sample choose ([move1, move2, move3, move4, move5, move6, move7, move8, move9])
       sleep 24
     end
+    stop
   end
 end
 
